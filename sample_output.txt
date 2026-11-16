@@ -1,0 +1,30 @@
+SAMPLE CONSOLE OUTPUT
+
+============================================
+       EMPLOYEE SALARY CALCULATOR
+============================================
+
+Enter employee name: Rahul
+Enter employee ID: 101
+Enter basic salary (Rs.): 30000
+
+============================================
+             EMPLOYEE SALARY SLIP
+============================================
+Employee Name : Rahul
+Employee ID   : 101
+--------------------------------------------
+Basic Salary  : Rs. 30,000.00
+HRA (20%)     : Rs. 6,000.00
+DA (10%)      : Rs. 3,000.00
+Gross Salary  : Rs. 39,000.00
+--------------------------------------------
+PF (12%)      : Rs. 3,600.00
+Tax           : Rs. 1,950.00
+--------------------------------------------
+NET SALARY    : Rs. 33,450.00
+============================================
+
+Calculate salary for another employee? (y/n): n
+
+Thank you for using Employee Salary Calculator.
