@@ -46,7 +46,6 @@ Run `python salary_calculator.py` in a terminal using Python 3. Enter the reques
 The project demonstrates the use of Python functions, arithmetic operators, conditional statements, input validation and loops to solve a basic salary calculation problem.
 
 ## 9. Student details
-- Student name: ____________________
-- Student ID: ____________________
-- Course/section: ____________________
-- Submission date: ____________________
+- Student name: Bishnu kumar 
+- Student ID: RU-26-03536
+- Course/section: BTech CSE core 1-O
