@@ -81,4 +81,4 @@ python3 salary_calculator.py
 
 ## Author
 
-Add your name and student details here before submission.
+Bishnu kumar_RU-26-03536_1-O
