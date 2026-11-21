@@ -1,4 +1,4 @@
-EMPLOYEE SALARY CALCULATOR
+EMPLOYEE SALARY CALCULATOR 
 -----------------------------------
 
 Enter Employee Name: Vishnu Kumar 
