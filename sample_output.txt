@@ -1,30 +1,81 @@
-SAMPLE CONSOLE OUTPUT
+EMPLOYEE SALARY CALCULATOR
+-----------------------------------
 
-============================================
-       EMPLOYEE SALARY CALCULATOR
-============================================
+Enter Employee Name: Vishnu Kumar 
+Enter Employee ID: 101
+Enter Basic Salary: 30000
 
-Enter employee name: Rahul
-Enter employee ID: 101
-Enter basic salary (Rs.): 30000
-
-============================================
-             EMPLOYEE SALARY SLIP
-============================================
-Employee Name : Rahul
+===================================
+       EMPLOYEE SALARY SLIP
+===================================
+Employee Name : Vishnu Kumar 
 Employee ID   : 101
---------------------------------------------
-Basic Salary  : Rs. 30,000.00
-HRA (20%)     : Rs. 6,000.00
-DA (10%)      : Rs. 3,000.00
-Gross Salary  : Rs. 39,000.00
---------------------------------------------
-PF (12%)      : Rs. 3,600.00
-Tax           : Rs. 1,950.00
---------------------------------------------
-NET SALARY    : Rs. 33,450.00
-============================================
+-----------------------------------
+Basic Salary  : Rs. 30000.0
+HRA (20%)     : Rs. 6000.0
+DA (10%)      : Rs. 3000.0
+-----------------------------------
+Gross Salary  : Rs. 39000.0
+PF (12%)      : Rs. 3600.0
+Income Tax    : Rs. 1950.0
+-----------------------------------
+Net Salary    : Rs. 33450.0
+===================================
 
-Calculate salary for another employee? (y/n): n
+Do you want to add another employee? (yes/no): yes
 
-Thank you for using Employee Salary Calculator.
+Enter Employee Name: Rahul Sharma 
+Enter Employee ID: 102
+Enter Basic Salary: 10000
+
+===================================
+       EMPLOYEE SALARY SLIP
+===================================
+Employee Name : Rahul Sharma 
+Employee ID   : 102
+-----------------------------------
+Basic Salary  : Rs. 10000.0
+HRA (20%)     : Rs. 2000.0
+DA (10%)      : Rs. 1000.0
+-----------------------------------
+Gross Salary  : Rs. 13000.0
+PF (12%)      : Rs. 1200.0
+Income Tax    : Rs. 0
+-----------------------------------
+Net Salary    : Rs. 11800.0
+===================================
+
+Do you want to add another employee? (yes/no): yes
+
+Enter Employee Name: Narendra Gandhi 
+Enter Employee ID: 103
+Enter Basic Salary: -5000/abc
+
+Invalid input. Please enter a valid salary.
+
+Do you want to add another employee? (yes/no): yes
+
+Enter Employee Name: Akhilesh 
+Enter Employee ID: 105
+Enter Basic Salary: 50000
+
+===================================
+       EMPLOYEE SALARY SLIP
+===================================
+Employee Name : Akhilesh 
+Employee ID   : 105
+-----------------------------------
+Basic Salary  : Rs. 50000.0
+HRA (20%)     : Rs. 10000.0
+DA (10%)      : Rs. 5000.0
+-----------------------------------
+Gross Salary  : Rs. 65000.0
+PF (12%)      : Rs. 6000.0
+Income Tax    : Rs. 6500.0
+-----------------------------------
+Net Salary    : Rs. 52500.0
+===================================
+
+Do you want to add another employee? (yes/no): no
+
+Thank you for using Employee Salary Calculator!
