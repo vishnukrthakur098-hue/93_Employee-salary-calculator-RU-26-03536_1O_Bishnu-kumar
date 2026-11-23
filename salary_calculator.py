@@ -8,8 +8,6 @@ Tax rule from the assignment:
 - Gross salary from Rs. 25,001 to Rs. 50,000: 5% tax
 - Gross salary above Rs. 50,000: 10% tax
 
-Note: The tax rate is applied to the full gross salary according to its slab,
-matching the assignment's expected outputs.
 """
 
 def calculate_gross(basic_salary):
