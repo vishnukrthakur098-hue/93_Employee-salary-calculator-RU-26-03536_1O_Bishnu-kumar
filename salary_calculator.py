@@ -34,7 +34,7 @@ def calculate_deductions(gross, basic_salary):
 
 
 def print_slip(name, employee_id, basic_salary):
-    """Calculate and print one employee's salary slip."""
+    
     hra, da, gross = calculate_gross(basic_salary)
     pf, tax = calculate_deductions(gross, basic_salary)
     net_salary = gross - pf - tax
@@ -58,7 +58,7 @@ def print_slip(name, employee_id, basic_salary):
 
 
 def get_positive_salary():
-    """Read and validate a positive numeric basic salary."""
+   
     while True:
         salary_text = input("Enter basic salary (Rs.): ").strip()
         try:
