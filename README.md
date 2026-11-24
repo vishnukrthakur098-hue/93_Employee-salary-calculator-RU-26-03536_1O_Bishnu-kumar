@@ -28,7 +28,6 @@ The Employee Salary Calculator is a console-based Python program. It accepts an 
 | Rs. 25,001 to Rs. 50,000 | 5% |
 | Above Rs. 50,000 | 10% |
 
-The tax rate is applied to the full gross salary in the selected slab. This interpretation matches the expected outputs supplied in the assignment.
 
 ## Requirements
 
