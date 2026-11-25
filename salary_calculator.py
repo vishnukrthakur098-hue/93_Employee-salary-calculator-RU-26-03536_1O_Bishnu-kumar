@@ -11,7 +11,7 @@ Tax rule from the assignment:
 """
 
 def calculate_gross(basic_salary):
-    """Calculate gross salary using HRA (20%) and DA (10%)."""
+    
     hra = basic_salary * 0.20
     da = basic_salary * 0.10
     gross = basic_salary + hra + da
@@ -19,7 +19,7 @@ def calculate_gross(basic_salary):
 
 
 def calculate_deductions(gross, basic_salary):
-    """Calculate PF and tax deductions."""
+    
     pf = basic_salary * 0.12
 
     if gross <= 25000:
